@@ -1,12 +1,16 @@
 Deepfake Media Detection 🚀
+
 Overview
 With the rise of AI-generated deepfake media, distinguishing real content from fake has become a critical challenge. This project aims to develop an advanced Deepfake Detection System using machine learning techniques to identify manipulated videos, images, and audio.
 
 Features
+
 ✅ AI-powered detection of deepfake videos and images
-✅ Detection of audio deepfakes (voice cloning)
+
 ✅ Explainable AI insights for decision-making
-✅ Web-based interface for easy use (optional)
+
+✅ Web-based interface for easy use
+
 ✅ API support for integration into other applications
 
 
